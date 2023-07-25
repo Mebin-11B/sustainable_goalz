@@ -59,4 +59,3 @@ def values():
         lon.append(i[0])
     return names,lat,lon
 
-
